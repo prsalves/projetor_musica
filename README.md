@@ -6,7 +6,8 @@ Este simples projeto em python exibe a letra e reproduz a música através da bi
 
 * Exibe a letra da música de acordo com o tempo dela, sincronizando com o som
 * Possui um terminal colorido e estilizado
-* 
+* Toca a música no próprio terminal
+  
 ## !! Problemas de funcionalidade !!
 
 * Exige um arquivo externo para reproduzir a música
